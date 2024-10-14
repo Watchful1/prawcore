@@ -1,4 +1,5 @@
 """Provides the HTTP request handling interface."""
+
 from typing import TYPE_CHECKING, Any, Optional
 
 import requests

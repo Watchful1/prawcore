@@ -1,4 +1,5 @@
 """Prepare py.test."""
+
 import json
 import os
 import socket

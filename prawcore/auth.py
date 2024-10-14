@@ -1,4 +1,5 @@
 """Provides Authentication and Authorization classes."""
+
 import time
 from abc import ABC, abstractmethod
 from typing import TYPE_CHECKING, Callable, List, Optional, Set, Tuple, Type, Union

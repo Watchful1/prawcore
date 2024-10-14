@@ -1,4 +1,5 @@
 """Constants for the prawcore package."""
+
 import os
 
 __version__ = "2.3.0"

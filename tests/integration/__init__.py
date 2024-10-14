@@ -1,4 +1,5 @@
 """prawcore Integration test suite."""
+
 import inspect
 import logging
 
