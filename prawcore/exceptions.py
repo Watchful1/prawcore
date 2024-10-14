@@ -1,4 +1,5 @@
 """Provide exception classes for the prawcore package."""
+
 from typing import TYPE_CHECKING, Any, Dict, Optional, Tuple, Union
 from urllib.parse import urlparse
 

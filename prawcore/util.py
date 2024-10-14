@@ -1,4 +1,5 @@
 """Provide utility for the prawcore package."""
+
 from typing import TYPE_CHECKING, Union
 
 from .exceptions import Forbidden, InsufficientScope, InvalidToken

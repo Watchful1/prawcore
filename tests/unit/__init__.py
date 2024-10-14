@@ -1,4 +1,5 @@
 """prawcore Unit test suite."""
+
 from prawcore import Requestor
 
 
